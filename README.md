@@ -1,4 +1,5 @@
-## Hi there ![Hi](https://github.com/user-attachments/assets/3c6854d9-383f-4ec5-b8de-a1f7c8f3112e)
+## Hi there ![Hi (1)](https://github.com/user-attachments/assets/adaff900-112b-4e1f-aabb-51d14f52a79b)
+
 
 🌱I am a 24 year old Full-Stack Developer who is exploring Programming while faciliating the world with User Experience with my Design Thinking Skills and enthusiasm about AI/ML.  
 
