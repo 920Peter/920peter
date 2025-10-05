@@ -7,7 +7,7 @@
 
 Studying at University of Illinois - Chicago as a CompSci Major
 
-Talk to me about
+## Talk to me about
 
 Web development-HTML/CSS,Javascript
 Backend development-C++,SQL
