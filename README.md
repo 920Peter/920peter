@@ -3,7 +3,7 @@
 
 🌱I am a 24 year old Full-Stack Developer who is exploring Programming, Design Thinking Skills and enthusiastic about AI/ML.  
 
-👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
+👨‍💻 I am passionate about Web Dev as well & I enjoy learning new things.
 
 Studying at University of Illinois - Chicago as a CompSci Major
 
