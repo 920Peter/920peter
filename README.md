@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a 24 year old Full-Stack Developer who is exploring Programming while faciliating the world with User Experience with my Design Thinking Skills and Ethusiast about AI/ML.  
 
-Studying @University of Illinois - Chicago as a CompSci Major
+Studying at University of Illinois - Chicago as a CompSci Major
 
 <!--
 **920Peter/920peter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
