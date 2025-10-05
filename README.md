@@ -7,6 +7,15 @@
 
 Studying at University of Illinois - Chicago as a CompSci Major
 
+Talk to me about
+
+Web development-HTML/CSS,Javascript
+Backend development-C++,SQL
+Data Analytics -Python,R
+Blockchain- Solidity
+Crypto
+Digital Marketing
+Cars
 ![keeponcodinggif](https://github.com/user-attachments/assets/61c94016-07ed-4cd5-9a08-558e596cb701)
 <!--
 **920Peter/920peter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
