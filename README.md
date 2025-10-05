@@ -1,8 +1,11 @@
 ## Hi there 👋
-I am a 24 year old Full-Stack Developer who is exploring Programming while faciliating the world with User Experience with my Design Thinking Skills and Ethusiast about AI/ML.  
+🌱I am a 24 year old Full-Stack Developer who is exploring Programming while faciliating the world with User Experience with my Design Thinking Skills and enthusiasm about AI/ML.  
+
+👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
 
 Studying at University of Illinois - Chicago as a CompSci Major
 
+![keeponcodinggif](https://github.com/user-attachments/assets/61c94016-07ed-4cd5-9a08-558e596cb701)
 <!--
 **920Peter/920peter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
